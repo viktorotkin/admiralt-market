@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://viktorotkin.github.io/admiralt-market/sitemap.xml
+Sitemap: https://viktorotkin.github.io/sitemap.xml
